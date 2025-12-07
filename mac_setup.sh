@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# mac_setup.sh comments for code generation
 # Setup a script for macOS environment
 # Configure Github, Homebrew, Bash profile, NVM, and Node.js
 # Provide prompts for user input where necessary with valid default options for a standard configuration
